@@ -1,10 +1,5 @@
 <<<<<<< HEAD
-<<<<<<< HEAD
 Charbel Habchi
 =======
 Sabina Solomon
 >>>>>>> 249142567c9136db632f77c413976f1d588ae63c
-=======
-Eshaan Kunchur
-Sabina Solomon
->>>>>>> 7a226c458317ca603c1761c18d3437981a654fb0
